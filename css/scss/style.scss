@@ -114,6 +114,7 @@ body {
 .content-block {
   width: 1140px;
   max-width: 1140px;
+  height: auto;
   margin: 0 auto;
   padding: 0 106px;
   .content-block__header {
@@ -187,7 +188,7 @@ body {
   .header-logo {
     position: absolute;
     top: 156px;
-    left: 252px;
+    right: 73px;
   }
 }
 
@@ -245,6 +246,7 @@ body {
     height: 93%;
     position: relative;
     background-image: url(../img/slider.png);
+    background-position: center;
   }
 }
 
