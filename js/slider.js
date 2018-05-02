@@ -1,7 +1,7 @@
 // Slider
-var hwSlideSpeed = 300;
-var hwTimeOut = 3000;
-var hwNeedLinks = true;
+var hwSlideSpeed = 300,
+ hwTimeOut = 3000,
+ hwNeedLinks = true;
 
 $(document).ready(function(e) {
   $('.slide').css({
